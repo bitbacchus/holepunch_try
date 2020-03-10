@@ -1,0 +1,22 @@
+Type: Compendium
+Package: Test analysis
+Title: Sebastian's dummy analysis to show
+    holepunch
+Version: 0.0.1
+Authors@R: 
+    person(given = "Sebastian",
+           family = "Hanß",
+           role = c("aut", "cre"),
+           email = "sebastian@hanss.info",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Sebastian's dummy analysis to show
+    holepunch
+License: GPL v3
+Depends: 
+    devtools,
+    holepunch,
+    landscapetools
+Remotes: 
+    karthik/holepunch
+Encoding: UTF-8
+LazyData: true
