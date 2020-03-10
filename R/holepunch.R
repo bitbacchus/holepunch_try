@@ -1,4 +1,4 @@
-devtools::install_github("karthik/holepunch")
+# devtools::install_github("karthik/holepunch")
 
 # to write a description, with dependencies. Be sure to fill in placeholder text
 holepunch::write_compendium_description(package = "Test analysis", 
@@ -18,4 +18,4 @@ holepunch::generate_badge() # This generates a badge for your readme.
 
 # And click on the badge or use the function below to get the build 
 # ready ahead of time.
-build_binder()
+holepunch::build_binder()

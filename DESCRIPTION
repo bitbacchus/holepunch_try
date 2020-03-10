@@ -13,7 +13,6 @@ Description: Sebastian's dummy analysis to show
     holepunch
 License: GPL v3
 Depends: 
-    devtools,
     holepunch,
     landscapetools
 Remotes: 
