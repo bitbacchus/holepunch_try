@@ -4,4 +4,4 @@
   
 # holepunch_try
 
-This takes some time if started for the first time in a while.
+Just click the button on top. This takes some time if started for the first time in a while.
